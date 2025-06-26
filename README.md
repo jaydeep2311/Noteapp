@@ -22,6 +22,7 @@ To run this project, you will need to add the following environment variables to
 ## Command
 
 npm install 
+
 npm run dev
 
 
@@ -43,4 +44,5 @@ To run this project, you will need to add the following environment variables to
 ## Command
 
 npm install 
+
 npm start
